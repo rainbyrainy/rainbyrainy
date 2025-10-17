@@ -35,7 +35,7 @@
   <br/>
   <br/>
   
-  ![footer](https://capsule-render.vercel.app/api?type=slice&height=20&color=C0B8EF&section=footer)
+  ![footer](https://capsule-render.vercel.app/api?type=slice&height=20&color=E3DEFF&section=footer)
   
 </div>
 
